@@ -12,5 +12,5 @@ Para la solucion a dicha problematica, se creo un programa en el lenguaje de pro
 # Participantes
 Los alumnos que trabajaron en este proyecto son:
 * Cárdenas Gómez Christopher rodrigo con boleta 2020630068
-* Fernando
+* Arriaga Castro Fernando con boleta 2023630314
 * Gustavo
