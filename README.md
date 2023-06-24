@@ -1,5 +1,5 @@
-## Proyecto_Vectorial
-# Proyecto final para la materia de ANALISIS VECTORIAL
+# Proyecto Vectorial
+## Proyecto final para la materia de ANALISIS VECTORIAL
 Generar una calculadora que resuelva tantas operaciones como sean posibles vistas durante curso. 
 Por ejemplo: 
     *Se generó una solución que resuelve derivadas de funciones (básicas) vectoriales de variable real.
